@@ -14,6 +14,8 @@ a. applies median blur
 b. applies adaptive gaussian thresholding
 c. changes image size to 128x128
 
-![Preprocessing result]()
+![Preprocessing result](https://github.com/kreeteeekah/Dynamic-Hand-Gesture-Recognition-using-CNN/blob/master/original.JPG)
+
+![Snapshot of model accuracy]
 
 
