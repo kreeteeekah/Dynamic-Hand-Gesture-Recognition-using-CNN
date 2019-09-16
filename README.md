@@ -5,11 +5,13 @@ a.Give and input video od the gesture to extractingFrames.py
 b. give the results to preprocessing.py
 c. after that the images are fed to CNN model
 
-extractingFrames.py
+**extractingFrames.py**
 This file extracts frames from video input.
 
-preprocessing.py
+**preprocessing.py**
 This file does the following pre-processing to speed up CNN:
 a. applies median blur
 b. applies adaptive gaussian thresholding
 c. changes image size to 128x128
+
+
