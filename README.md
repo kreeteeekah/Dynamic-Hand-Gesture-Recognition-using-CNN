@@ -17,8 +17,7 @@ c. changes image size to 128x128
 Results of preprocessing the images
 ![Preprocessing result](https://github.com/kreeteeekah/Dynamic-Hand-Gesture-Recognition-using-CNN/blob/master/original.JPG)
 
-Results of training the model
-![Snapshot of model accuracy](https://github.com/kreeteeekah/Dynamic-Hand-Gesture-Recognition-using-CNN/blob/master/MainTest1JPG.JPG)
+
 
 
 
