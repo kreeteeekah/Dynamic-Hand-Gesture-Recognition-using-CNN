@@ -65,10 +65,10 @@ test_set = test_datagen.flow_from_directory('binarized dataset/test set',
                                             class_mode = 'categorical')
 
 classifier.fit_generator(training_set,
-                         steps_per_epoch =300,
-                         epochs = 10,
+                         steps_per_epoch =320,
+                         epochs = 2,
                          validation_data = test_set,
-                         validation_steps = 180)
+                         validation_steps = 100)
 
 #single predicition
 
